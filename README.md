@@ -1,4 +1,11 @@
 <h1 align="center">Kirtan Kumar Sanghi</h1>
+
+<!-- EDIT ME: change the text after "lines=" (separate multiple lines with ;) to whatever you actually do.
+     Keep &color=9AA5AF and &font=Georgia so it matches the rest of the header. -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1500&color=9AA5AF&background=13171A00&center=true&vCenter=true&width=600&lines=Backend+systems+%26+applied+machine+learning;Turning+models+into+things+that+actually+run" alt="Typing SVG">
+</p>
+
 <p align="center"><sub>Hyderabad, India · B.Tech CSE, Manipal University Jaipur</sub></p>
 
 <p align="center">
