@@ -6,12 +6,44 @@
 </picture>
 
 <!-- ============ ABOUT ============ -->
+<!-- EDIT ME: 2-3 sentences on what you actually work on. Be specific about the domain
+     (e.g. "backend systems," "applied ML," "distributed infra") — avoid "full-stack developer"
+     and "AI & Cloud enthusiast," which describe a category, not a person. -->
 
-**Currently:** [replace with the one thing you're actually working on right now — e.g. "finishing a RAG pipeline for X" — not a job-title description]
+I build backend systems and machine learning tools, with a focus on making models reliable enough to put in production, not just accurate on a benchmark. Most of my work lives at the intersection of applied ML and infrastructure — training pipelines, serving layers, the unglamorous plumbing that makes a model actually usable.
 
-**Stack I actually reach for:** [3–6 tools you use regularly, not a generated skill-icon row — e.g. Python, PyTorch, AWS, Docker, PostgreSQL]
+Currently deepening my understanding of distributed training and model-serving infrastructure at scale.
 
-**Right now I'm figuring out:** [one honest, specific thing you're learning or stuck on — this is the line that makes a README sound like a person, not a generator]
+### Selected work
+<!-- EDIT ME: replace with your 2-3 strongest repos. One real, specific line each —
+     what it does, what it's built with, one number if you have one (users, latency,
+     accuracy, stars). A project with no metric and no specifics reads as unfinished;
+     three honest one-liners beat six vague ones. -->
+
+- **[project-name](https://github.com/kirtankumarsanghi/project-name)** — one-line description of what it does and the core technical challenge it solved
+- **[project-name](https://github.com/kirtankumarsanghi/project-name)** — one-line description, including the stack and any real metric
+- **[project-name](https://github.com/kirtankumarsanghi/project-name)** — one-line description
+
+### Tech stack
+<!-- EDIT ME: keep only tools you'd defend in an interview. 5-6 max.
+     Find logo slugs at https://simpleicons.org — keep the same colors so badges match the banner. -->
+
+<p>
+<img src="https://img.shields.io/badge/Python-20302B?style=for-the-badge&logo=python&logoColor=C9A66B" alt="Python">
+<img src="https://img.shields.io/badge/PyTorch-20302B?style=for-the-badge&logo=pytorch&logoColor=C9A66B" alt="PyTorch">
+<img src="https://img.shields.io/badge/AWS-20302B?style=for-the-badge&logo=amazonaws&logoColor=C9A66B" alt="AWS">
+<img src="https://img.shields.io/badge/Docker-20302B?style=for-the-badge&logo=docker&logoColor=C9A66B" alt="Docker">
+<img src="https://img.shields.io/badge/PostgreSQL-20302B?style=for-the-badge&logo=postgresql&logoColor=C9A66B" alt="PostgreSQL">
+</p>
+
+### Connect
+<!-- EDIT ME: fill in your real links, remove any row you don't use -->
+
+<p>
+<a href="https://linkedin.com/in/kirtankumarsanghi"><img src="https://img.shields.io/badge/LinkedIn-20302B?style=for-the-badge&logo=linkedin&logoColor=C9A66B" alt="LinkedIn"></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-20302B?style=for-the-badge&logo=gmail&logoColor=C9A66B" alt="Email"></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-20302B?style=for-the-badge&logo=aboutdotme&logoColor=C9A66B" alt="Portfolio"></a>
+</p>
 
 <!-- ============ CONTRIBUTION GRAPH (live, self-hosted via Actions) ============ -->
 <p align="center">
