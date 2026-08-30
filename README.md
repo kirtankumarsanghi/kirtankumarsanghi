@@ -1,11 +1,9 @@
-<h1 align="center">Kirtan Kumar Sanghi</h1>
-
-<!-- EDIT ME: change the text after "lines=" (separate multiple lines with ;) to whatever you actually do.
-     Keep &color=9AA5AF and &font=Georgia so it matches the rest of the header. -->
+<!-- EDIT ME: change the text after "lines=" to your name (or add more lines separated by ;). -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1500&color=9AA5AF&background=13171A00&center=true&vCenter=true&width=600&lines=Backend+systems+%26+applied+machine+learning;Turning+models+into+things+that+actually+run" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&pause=1500&color=EDEEF0&background=13171A00&center=true&vCenter=true&width=600&height=60&lines=Kirtan+Kumar+Sanghi" alt="Kirtan Kumar Sanghi">
 </p>
 
+<p align="center">Backend systems &amp; applied machine learning</p>
 <p align="center"><sub>Hyderabad, India · B.Tech CSE, Manipal University Jaipur</sub></p>
 
 <p align="center">
@@ -53,6 +51,8 @@
 <img src="https://img.shields.io/badge/MongoDB-20302B?style=for-the-badge&logo=mongodb&logoColor=C9A66B" alt="MongoDB">
 <img src="https://img.shields.io/badge/PostgreSQL-20302B?style=for-the-badge&logo=postgresql&logoColor=C9A66B" alt="PostgreSQL">
 </p>
+
+<hr>
 
 <!-- ============ CONTRIBUTION GRAPH (live, self-hosted via Actions) ============ -->
 <p align="center">
