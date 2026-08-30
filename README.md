@@ -1,9 +1,14 @@
-<!-- ============ HERO BANNER ============ -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="light.svg">
-<img src="dark.svg" alt="Kirtan Kumar Sanghi">
-</picture>
+<h1 align="center">Kirtan Kumar Sanghi</h1>
+<p align="center">Backend systems &amp; applied machine learning</p>
+<p align="center"><sub>Hyderabad, India · B.Tech CSE, Manipal University Jaipur</sub></p>
+
+<p align="center">
+<a href="https://linkedin.com/in/kirtankumarsanghi">LinkedIn</a> ·
+<a href="mailto:your.email@example.com">Email</a> ·
+<a href="https://your-portfolio.com">Portfolio</a>
+</p>
+
+<hr>
 
 <!-- ============ ABOUT ============ -->
 <!-- EDIT ME: 2-3 sentences on what you actually work on. Be specific about the domain
@@ -34,15 +39,6 @@ Currently deepening my understanding of distributed training and model-serving i
 <img src="https://img.shields.io/badge/AWS-20302B?style=for-the-badge&logo=amazonaws&logoColor=C9A66B" alt="AWS">
 <img src="https://img.shields.io/badge/Docker-20302B?style=for-the-badge&logo=docker&logoColor=C9A66B" alt="Docker">
 <img src="https://img.shields.io/badge/PostgreSQL-20302B?style=for-the-badge&logo=postgresql&logoColor=C9A66B" alt="PostgreSQL">
-</p>
-
-### Connect
-<!-- EDIT ME: fill in your real links, remove any row you don't use -->
-
-<p>
-<a href="https://linkedin.com/in/kirtankumarsanghi"><img src="https://img.shields.io/badge/LinkedIn-20302B?style=for-the-badge&logo=linkedin&logoColor=C9A66B" alt="LinkedIn"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-20302B?style=for-the-badge&logo=gmail&logoColor=C9A66B" alt="Email"></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-20302B?style=for-the-badge&logo=aboutdotme&logoColor=C9A66B" alt="Portfolio"></a>
 </p>
 
 <!-- ============ CONTRIBUTION GRAPH (live, self-hosted via Actions) ============ -->
